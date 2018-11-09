@@ -1,0 +1,27 @@
+{
+  "name": "examenweb_ejercicio2",
+  "version": "1.0.0",
+  "description": "Desarrollando RESTFULL API de spotify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsarmiento1614/Examen_API_Spotify.git"
+  },
+  "author": "Jesus Sarmiento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsarmiento1614/Examen_API_Spotify/issues"
+  },
+  "homepage": "https://github.com/jsarmiento1614/Examen_API_Spotify#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "mssql": "^4.2.3"
+  }
+}
